@@ -1,6 +1,7 @@
-# ReduxSimpleStarter
+# React-Redux Weather Forecast App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Simple React app that uses https://openweathermap.org/ API to fetch weather and make a 5 day forecast.
+It makes use of Redux and also GoogleMaps API.
 
 ### Getting Started
 
